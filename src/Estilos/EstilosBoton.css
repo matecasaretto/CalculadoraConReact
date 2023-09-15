@@ -1,0 +1,17 @@
+.botones{
+    height: 83px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #1b1b32;
+    border-radius: 25px;
+    border: 2px solid white;
+    cursor: pointer;
+    margin: 4px;
+    color: white;
+    user-select: none;
+}
